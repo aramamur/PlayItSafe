@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PlayItSafe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Play It Safe!</string>
+    <string name="nav_header_subtitle">Review and Find COVID Safe Places!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Log Out</string>
+
+    <string name="menu_getpermissions">Get Permissions</string>
+    <string name="menu_addplace">Add Place</string>
+    <string name="menu_findplace">Find Place</string>
+    <string name="menu_findnearbyplace">Find Nearby Place</string>
+    <string name="menu_covidstat">Latest US Covid Statistics</string>
+    <string name="menu_vacreview">Vaccine Review and Stats</string>
+    <string name="api_key">AIzaSyCk4Y1lqh1UgVWpCU3F6R-ywWpMXbRGtzg</string>
+    <string-array name="place_types_array">
+        <item>Restaurant</item>
+        <item>Grocery Store</item>
+        <item>Store</item>
+        <item>Hospital</item>
+    </string-array>
+    <string-array name="vaccine_array">
+        <item>Moderna</item>
+        <item>Pfizer</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+    <string-array name="age_array">
+        <item>Under 18</item>
+        <item>18-39</item>
+        <item>40-60</item>
+        <item>61-70</item>
+        <item>Over 70</item>
+    </string-array>
+    <string-array name="race_array">
+        <item>African</item>
+        <item>Asian</item>
+        <item>Arabic</item>
+        <item>Caucasian</item>
+        <item>Hispanic</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910303855302",
+    "firebase_url": "https://playitsafeplacesas.firebaseio.com",
+    "project_id": "playitsafeplacesas",
+    "storage_bucket": "playitsafeplacesas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910303855302:android:a85ccdd84a8ce6f13a4dc7",
+        "android_client_info": {
+          "package_name": "com.example.playitsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910303855302-9g88s5lt66i9vrj2n4d6agcueejdbc97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJQqJjtghM5q_HBzB5b0AQfrRPX5jeqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910303855302-9g88s5lt66i9vrj2n4d6agcueejdbc97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
